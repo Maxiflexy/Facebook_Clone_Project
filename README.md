@@ -1,2 +1,3 @@
-# Facebook_Clone_Project
-A clone of the popular Facebook App using HTML, CSS and JavaScript.
+# Facebook-Clone-Project
+
+ A clone of the popular Facebook App using HTML5, CSS and JavaScript.
